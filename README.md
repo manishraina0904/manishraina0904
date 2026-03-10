@@ -98,22 +98,43 @@ Panipat Institute of Engineering & Technology
 
 ---
 
-# 📊 GitHub AI Dashboard
+# 🤖 AI GitHub Dashboard
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manishraina0904&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manishraina0904&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Manish%20Raina%20AI%20Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishraina0904&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishraina0904&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishraina0904&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishraina0904&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishraina0904&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Advanced GitHub Streak System
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=manishraina0904&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishraina0904&theme=tokyonight&hide_border=true&ring=00FFC6&fire=FF5733&currStreakLabel=00FFC6&sideLabels=FFFFFF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manishraina0904&theme=tokyonight&utcOffset=5"/>
+
 </p>
 
 ---
